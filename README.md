@@ -31,7 +31,7 @@ The analysis includes:
 - Revenue and percentage of total revenue by category
 - Product revenue compared with the average revenue per product
 - Identification of the top 20% of customers by revenue
-- Monthly revenue trends and growth compared with the previous month
+- Monthly revenue trends and growth compared with the previous month 
 - Revenue distribution by order status
 - Top 3 products by revenue within each category
 - Average ticket by category compared with the overall average ticket
