@@ -42,13 +42,4 @@ The analysis includes:
 The SQL analysis uses techniques such as CTEs, subqueries, aggregate functions, CASE statements, and window functions including LAG(), NTILE(), and ROW_NUMBER().
 
 
-
-
-
-
-
-
-
-
-
-After the cleaning process, the dataset was prepared for import into MySQL for further analysis
+After the cleaning process, the dataset was prepared for import into MySQL for further an
